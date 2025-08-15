@@ -11,16 +11,7 @@ Added a dropdown menu to select the unit of input.
 Included a "Convert" button to trigger the calculation.
 Added a display area to show results.
 Implemented Conversion Logic
-Validated that the entered value is numeric.
-Applied standard temperature conversion formulas for all three units.
-Displayed results with correct units and two decimal places.
-Styled the Application
-Used CSS to create a clean, responsive design.
-Added hover effects for better user experience.
-Centered the layout with a visually appealing gradient background.
-Tested Functionality
-Verified accurate conversion across all possible input types.
-Ensured compatibility with major browsers.
+
 
 🧰 Tools & Technologies Used
 
